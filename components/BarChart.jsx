@@ -20,10 +20,10 @@ const BarChart = () => {
 
     useEffect(() => {
        setChartData({ 
-           labels: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'],
+           labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec'],
            datasets: [{
             label: 'Sales $',
-            data: [100, 200, 300, 400, 500, 600, 700],
+            data: [2010, 10, 5500, 4020, 7060, 6200, 7400,5265, 1000, 2000, 3000, 4000, 5000],
             borderColor :'rgb(53, 162, 235)',
             backgroundColor: 'rgb(53, 162, 235,0.4'
            }  ]
