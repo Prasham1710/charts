@@ -2,8 +2,8 @@ export const data = [
   {
     id: 1,
     name: {
-      first: 'John',
-      last: 'Smith',
+      first: 'Jatin',
+      last: 'Sharma',
     },
     total: 2795.95,
     status: 'On Hold',
@@ -13,8 +13,8 @@ export const data = [
   {
     id: 2,
     name: {
-      first: 'Chris',
-      last: 'Adams',
+      first: 'Shail',
+      last: 'Sahu',
     },
     total: 1195.95,
     status: 'Processing',
@@ -25,7 +25,7 @@ export const data = [
     id: 3,
     name: {
       first: 'Sarah',
-      last: 'Smith',
+      last: 'singh',
     },
     total: 495.85,
     status: 'Completed',
@@ -35,8 +35,8 @@ export const data = [
   {
     id: 4,
     name: {
-      first: 'Joseph',
-      last: 'Choo',
+      first: 'Ankush',
+      last: 'Dutta',
     },
     total: 150.45,
     status: 'Processing',
@@ -47,7 +47,7 @@ export const data = [
     id: 5,
     name: {
       first: 'Steve',
-      last: 'Harding',
+      last: 'Jobs',
     },
     total: 175.25,
     status: 'On Hold',
@@ -57,8 +57,8 @@ export const data = [
   {
     id: 6,
     name: {
-      first: 'Laura',
-      last: 'Croft',
+      first: 'Subham',
+      last: 'Maheshwari',
     },
     total: 1295.75,
     status: 'Completed',
@@ -69,7 +69,7 @@ export const data = [
     id: 7,
     name: {
       first: 'Michael',
-      last: 'Jones',
+      last: 'Jakson',
     },
     total: 89.95,
     status: 'Completed',
@@ -90,7 +90,7 @@ export const data = [
   {
     id: 9,
     name: {
-      first: 'Haley',
+      first: 'anabella',
       last: 'Whiting',
     },
     total: 14.99,
@@ -102,7 +102,7 @@ export const data = [
     id: 10,
     name: {
       first: 'Tim',
-      last: 'Thomas',
+      last: 'Cook',
     },
     total: 218.99,
     status: 'Completed',

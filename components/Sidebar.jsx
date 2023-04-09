@@ -20,12 +20,12 @@ const Sidebar = ({children}) => {
                 </div>
             </Link>
             <Link href='/customers'>
-                <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-2 p-3 rounded-lg inline-block'>
-                    <RxPerson size={22} />
+                <div title='customer' className='bg-gray-100 hover:bg-gray-200  cursor-pointer my-2 p-3 rounded-lg inline-block'>
+                    <RxPerson  size={22} >Customer</RxPerson>
                 </div>
             </Link>
             <Link href='/orders'>
-                <div className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-2 p-3 rounded-lg inline-block'>
+                <div title='orders' className='bg-gray-100 hover:bg-gray-200 cursor-pointer my-2 p-3 rounded-lg inline-block'>
                     <HiOutlineShoppingBag size={22} />
                 </div>
             </Link>
